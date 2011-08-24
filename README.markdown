@@ -4,6 +4,14 @@ Examples I have completed as i read The Node Beginner Book - http://www.nodebegi
 
 The following is taken directly from The Node Beginner Book to explain the files within this repository.
 
+## Conclusion
+
+The Node Beginner Book is fairly basic in terms of areas of node.js it covers.
+
+It is written from the perspective of someone who does not have a large understanding of JavaScript.
+
+Much of the tutorial covers information on JavaScript which is fantastic for newbies.
+
 ## The use cases
 
 Let's keep it simple, but realistic:
